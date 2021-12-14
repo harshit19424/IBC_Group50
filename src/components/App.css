@@ -1,0 +1,12 @@
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.col-lg-12 {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.d-4 {
+  color: #E8C891;
+}
